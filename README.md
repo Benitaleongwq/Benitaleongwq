@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Benitaleongwq
+- 👋 Hi, I’m @Benita
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on AI and ML models and coding skills
 - 📫 How to reach me @benitaleongwq@gmail.com
 - 😄 Pronouns: ben-ni-the
 - ⚡ Fun fact: I can speak Japaneses
+
 
 <!---
 Benitaleongwq/Benitaleongwq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
