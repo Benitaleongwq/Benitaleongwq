@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI and ML models and coding skills
 - 📫 How to reach me @benitaleongwq@gmail.com
 - 😄 Pronouns: ben-ni-the
-- ⚡ Fun fact: I can speak Japaneses
+- ⚡ Fun fact: I can speak Japanese
 
 
 <!---
